@@ -1,10 +1,10 @@
 # About Me
 
-Hello! I'm [MubeenaHussain], a passionate data enthusiast with a keen interest in exploring and analyzing complex datasets. I'm dedicated to leveraging the power of data to uncover insights, tell compelling stories, and make informed decisions.
+Hello! I'm MubeenaHussain, a passionate data enthusiast with a keen interest in exploring and analyzing complex datasets. I'm dedicated to leveraging the power of data to uncover insights, tell compelling stories, and make informed decisions.
 
 ## Background
 
-- 🎓 Bachelor's Degree in [Statistics]
+- 🎓 Bachelor's Degree in Statistics
 - 📊 Data Analysis Enthusiast
 - 🌌 Astro Analysis Enthusiast
 
