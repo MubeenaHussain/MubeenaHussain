@@ -11,7 +11,7 @@ Hello! I'm [MubeenaHussain], a passionate data enthusiast with a keen interest i
 ## What I Do
 
 - I specialize in performing Exploratory Data Analysis (EDA) to understand the underlying patterns, trends, and anomalies hidden within data.
-- I work with various tools and programming languages, such as R and Python, to clean, visualize, and analyze data.
+- I work with various tools and programming language R  and Power BI to clean, visualize, and analyze data.
 - I'm enthusiastic about turning raw data into actionable insights that drive informed decision-making.
 
 ## My Approach
