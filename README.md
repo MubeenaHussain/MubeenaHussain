@@ -4,7 +4,7 @@ Hello! I'm MubeenaHussain, a passionate data enthusiast with a keen interest in 
 
 ## Background
 
-- 🎓 Bachelor's Degree in Statistics
+- 🎓 Bachelor's(Honors) Degree in Statistics
 - 📊 Data Analysis Enthusiast
 - 🌌 Astro Analysis Enthusiast
 
